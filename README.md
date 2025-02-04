@@ -1,6 +1,6 @@
 # Doom Game - Python 
 
-![Doom Logo]()
+![Doom Logo](/assets/doom_logo.png)
 
 Este é um jogo 3D inspirado no clássico *DOOM*, desenvolvido com Python e a biblioteca Pygame. Ele utiliza a técnica de *Raycasting* onde o objetivo é renderizar um ambiente 3D de forma eficiente, utilizando raios para calcular a visão e as interações entre o jogador e o mundo, proporcionando uma experiência imersiva e divertida.
 
@@ -14,7 +14,7 @@ Este é um jogo 3D inspirado no clássico *DOOM*, desenvolvido com Python e a bi
 
 ## Screenshot
 
-![doom](/sreenshots/0.jpg)
+![doom](/assets/screenshot.png)
 
 ## Como Jogar
 
