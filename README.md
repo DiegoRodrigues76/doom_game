@@ -36,3 +36,7 @@ Este é um jogo 3D inspirado no clássico *DOOM*, desenvolvido com Python e a bi
 ## Aproveite a experiência!
    
    Controles: *W A S D* + *Mouse*
+
+## Licença
+
+Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
